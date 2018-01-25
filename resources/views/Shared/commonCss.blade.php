@@ -1,0 +1,20 @@
+{{ Html::style('admin/assets/bootstrap/css/bootstrap.css') }}
+{{ Html::style('admin/assets/font-awesome/css/font-awesome.min.css') }}
+{{ Html::style('admin/assets/weather-icons/weather-icons.min.css') }}
+{{ Html::style('admin/assets/effects/menu-effects.css') }}
+{{ Html::style('http://fonts.googleapis.com/css?family=Lobster') }}
+{{ Html::style('http://fonts.googleapis.com/css?family=Lato:400,100italic,100,300italic,300,400italic,700,700italic,900,900italic') }}
+{{ Html::style('admin/assets/jquery-ui/ui-lightness/jquery-ui-1.10.3.custom.css') }}
+{{ Html::style('admin/assets/morrischarts/morris.css') }}
+{{ Html::style('admin/assets/fullcalendar/fullcalendar.css') }}
+{{ Html::style('admin/assets/datatables/jquery.dataTables.css') }}
+{{ Html::style('admin/assets/icheck/flat/_all.css') }}
+{{ Html::style('admin/_demo/introjs/introjs.min.css') }}
+{{ Html::style('admin/css/styles-less.css') }}
+{{ Html::style('admin/css/responsive.css') }}
+{{ Html::style('admin/css/animate.css') }}
+{{ Html::style('admin/css/developer.css') }}
+{{ Html::style('admin/_demo/demo.css') }}
+{{ Html::style('https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.12/jquery.bxslider.css') }}
+{{ Html::style('https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.12/jquery.bxslider.min.css') }}
+

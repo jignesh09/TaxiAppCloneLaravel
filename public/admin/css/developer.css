@@ -1,0 +1,103 @@
+
+.msgbodytxt {
+    margin: 18px;
+}
+.btn{
+	width: auto;
+}
+
+.frmbtntopspc
+{
+	margin-top: 28px !important;
+}
+.alerterror
+{
+	background-color: red;
+	color: white;
+  margin: 20px 25px 20px 20px  !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #505050;
+    margin-top: 0px;
+    font-weight: 600;
+}
+#admin_listing th{
+    color: #233242;
+    font-weight: bold;
+    }
+
+ .box-body {
+    padding: 10px;
+}
+.childli{
+  display: block;
+  font-weight: normal;
+  font-size: 14px;
+  color: #EE7432;
+  height: 45px;
+  overflow: hidden;
+  position: relative;
+}
+
+.btn_position
+{
+	padding: 15px;
+}
+.box-breadcrumbs
+{
+	padding: 10px;
+}
+.box-title
+{
+	padding: 10px;
+
+}
+
+table thead tr{
+    line-height: 40px !important;
+}
+
+table tbody tr{
+    line-height: 35px !important;
+}
+#btnremove
+{
+    width: 250px;
+    border-radius: 10px;
+}
+
+#btn-save
+{
+    width: auto !important;
+}
+#formtoplabl
+{
+    margin-top: 40px !important;
+}
+.btn-file
+{
+    width: 100px;
+    height: 35px;
+}
+.alertnotify
+{
+    color: #fff;
+    background-color: #3156a3;
+    margin: 20px;
+    border-radius:3px;
+}
+.headerprofile
+{
+  padding-right: 40px !important;
+}
+
+.checkpadding
+{
+  padding: 10px !important;
+}
+.img_cls
+{
+    border-radius: 20px;
+}
